@@ -7,7 +7,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>client-protocolo</module>
-        <module>server-protocolo</module>
+        <module>server-protocolo-app</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
