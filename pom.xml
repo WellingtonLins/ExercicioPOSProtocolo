@@ -7,7 +7,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>ExercicioPOSProtocolo</module>
+        <module>client-protocolo</module>
         <module>server-protocolo</module>
     </modules>
     <properties>
